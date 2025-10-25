@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4069494523
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: estatemoon.lethalbundle
+      Dependencies: {}
+    Info_1:
+      Name: estatemoonscene.lethalbundle
+      Dependencies: {}

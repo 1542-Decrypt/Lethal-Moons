@@ -1,0 +1,83 @@
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Error  :LethalLevelLoader] Could Not Find Water Shader
+[Info   :LethalLevelLoader] evaisa.lethallibfound, enabling compatability patches.
+[Info   :LethalLevelLoader] LethalBundleManger: Starting!
+[Info   :LethalLevelLoader] LethalBundleManger: Now Loading Bundles!
+[Info   :LethalLevelLoader] Config Level Set As: User
+[Info   :LethalLevelLoader] estatemoon.lethalbundle Loaded (4.63s)!
+[Info   :LethalLevelLoader] estatemoonscene.lethalbundle Loaded (4.63s)!
+[Info   :LethalLevelLoader] Finished Processing Bundles!
+[Info   :LethalLevelLoader] LethalBundleManger Recieved Group: Estatemoon.lethalbundle
+[Info   :LethalLevelLoader] Found ExtendedMod: ExtendedMod
+[Info   :LethalLevelLoader] LethalBundleManger Finished Requested Load
+[Info   :LethalLevelLoader] Custom Content Processed. Unlocking Main Menu.
+[Info   :LethalLevelLoader] estatemoonscene.lethalbundle Unloaded (2.19s)
+[Info   :LethalLevelLoader] Registering Bundle Content!
+[Info   :LethalLevelLoader] Skipped Registering 0 NetworkObjects As They Were Already Registered.
+[Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
+[Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
+[Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
+[Info   :LethalLevelLoader] LethalLevelLoaderNetworkManager Spawned.
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedLevels:
+1. 41 Experimentation (Vanilla)
+2. 220 Assurance (Vanilla)
+3. 56 Vow (Vanilla)
+4. 71 Gordion (Vanilla)
+5. 61 March (Vanilla)
+6. 20 Adamance (Vanilla)
+7. 85 Rend (Vanilla)
+8. 7 Dine (Vanilla)
+9. 21 Offense (Vanilla)
+10. 8 Titan (Vanilla)
+11. 68 Artifice (Vanilla)
+12. 44 Liquidation (Vanilla)
+13. 5 Embrion (Vanilla)
+14. 16 Estate (Custom)
+
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
+1. Facility (Level1Flow) (Vanilla)
+2. Haunted Mansion (Level2Flow) (Vanilla)
+3. Facility (Level1FlowExtraLarge) (Vanilla)
+4. Facility (Level1Flow3Exits) (Vanilla)
+5. Mineshaft (Level3Flow) (Vanilla)
+
+[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: EstateLevel, Current Vanilla Save Is: LCSaveFile2
+[Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
+[Info   :LethalLevelLoader] NetworkBundleManager Initializing.
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Info   : LethalLib] Adding 0 items to terminal
+[Info   : LethalLib] Found 0 prefabs to fix
+[Info   :LethalLevelLoader] Loading Previously Saved SelectableLevel: 16 Estate
+[Info   :LethalLevelLoader] Refeshing Loaded Bundles Status!
+[Info   :LethalLevelLoader] Sending LoadedStatus: False To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (0 / 1)
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 16 Estate
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
+[Info   :LethalLevelLoader] estatemoonscene.lethalbundle Loaded (2.19s)!
+[Info   :LethalLevelLoader] Sending LoadedStatus: True To Server!
+[Info   :LethalLevelLoader] LoadedStatus Is Currently: (1 / 1)
+[Info   :LethalLevelLoader] Getting Random DungeonFlows!
+[Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
+
+Info For ExtendedLevel: EstateExtendedLevel | Planet Name: Estate | Content Tags: Custom | Route Price: 0 | Current Weather: Stormy
+Unviable ExtendedDungeonFlows: Facility, Facility
+Viable ExtendedDungeonFlows: Facility (300), Mineshaft (53), Haunted Mansion (14)
+
+[Info   :LethalLevelLoader] Setting Random DungeonFlows!
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
+[Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
+
+EntranceTeleport's Found, Estate Contains 3 Entrances! ( 2 Fire Escapes) 
+Main Entrance: EntranceTeleportA (Entrance ID: 0)
+Alternate Entrance: EntranceTeleportB (Entrance ID: 1)
+Alternate Entrance: EntranceTeleportC (Entrance ID: 2)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawn rate Count From (1,1) To (2,2)
+
+
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Estate ,Facility ,Quota: 0 , Day: 1 , Weather: Stormy
+[Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
