@@ -1,4 +1,8 @@
 Waves are shifting near the long abandonded facility in the wilting swampy forests.
+This moon is focused on Cruiser mostly, allowing to take a lot of scrap with it, however its still viable without it.
+Moon is similar to loot quantity to 8-Rend, however min amount is way lower, making loot quantity much more inconsistent, justifying its cost.
+
+Moon is not balanced enough at the moment and balancing is still WIP.
 
 | Moon Info||
 | :-: | :-: |
