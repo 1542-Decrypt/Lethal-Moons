@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/953e9c05-4cfd-44b9-8d84-23dc96dabe9b" />Waves are shifting near the long abandonded facility in the wilting swampy forests.
+Waves are shifting near the long abandonded facility in the wilting swampy forests.
 
 | Moon Info||
 | :-: | :-: |
